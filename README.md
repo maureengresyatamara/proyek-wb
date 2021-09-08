@@ -1,2 +1,2 @@
-# proyek-wb
-Web Programming
+# Namanya juga hidup
+Lucu
